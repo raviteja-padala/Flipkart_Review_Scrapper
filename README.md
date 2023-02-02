@@ -1,8 +1,8 @@
 # FlipkartReviewScraper
 
-<div>
+
 ![image](https://user-images.githubusercontent.com/107047340/216378362-e0543515-c813-4ed8-88a2-023e15c09e6f.png)
-</div>
+
 
 
 ### Description
