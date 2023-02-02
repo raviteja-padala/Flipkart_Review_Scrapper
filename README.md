@@ -1,7 +1,7 @@
 # FlipkartReviewScraper
 
 <div>
-<img src="https://github.com/Shubham3023/FlipkartReviewScraper/blob/main/Project%20Images/WebScraping.jpg" width="700" height="400" alt="Web Scraping"/>
+![image](https://user-images.githubusercontent.com/107047340/216378362-e0543515-c813-4ed8-88a2-023e15c09e6f.png)
 </div>
 
 
@@ -27,7 +27,7 @@ In coming days, i'll deploy this app on AWS.
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/Shubham3023/FlipkartReviewScraper.git
+git clone https://github.com/raviteja-padala/Flipkart_Review_Scrapper.git
 ```
 
 ### Step 2- Download the code to local and use any IDE for running the code.
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 
 
 ## Web Application Home Page
-<img src="https://github.com/Shubham3023/FlipkartReviewScraper/blob/main/Project%20Images/HomePage.jpg" alt="Web Application" />
+![image](https://user-images.githubusercontent.com/107047340/216377569-71659663-573a-49ac-98c6-661eef5c95df.png)
 
 ## Result Page
-<img src="https://github.com/Shubham3023/FlipkartReviewScraper/blob/main/Project%20Images/ResultPage.jpg" alt="Result" />
+![image](https://user-images.githubusercontent.com/107047340/216377895-88f4ccaa-cadb-4fd4-8c42-1f88f7a43b87.png)
