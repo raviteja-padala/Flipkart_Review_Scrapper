@@ -1,5 +1,5 @@
 
-name: Python Calculater Application
+name: Flipkart_Review_Scrapper
 
 on:
   push:
