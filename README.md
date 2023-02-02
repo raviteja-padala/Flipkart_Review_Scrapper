@@ -19,10 +19,11 @@ The aim of this project to extract review and review data from Flipkart website.
 1. VS Code (you can use any other IDE)
 2. GIT
 3. GITHUB
+4. GIT ACTIONS
 
 ## How to run?
-This app is now available for offline run.
-In coming days, i'll deploy this app on AWS.
+As of now this app is now available for offline run.
+In coming days, i will deploy this app on cloud platform.
 
 
 ### Step 1: Clone the repository
